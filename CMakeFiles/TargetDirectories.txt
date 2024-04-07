@@ -1,0 +1,3 @@
+C:/NEwProject/zlibprog/Project1/CMakeFiles/ZLib.dir
+C:/NEwProject/zlibprog/Project1/CMakeFiles/ALL_BUILD.dir
+C:/NEwProject/zlibprog/Project1/CMakeFiles/ZERO_CHECK.dir
